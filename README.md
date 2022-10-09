@@ -22,23 +22,17 @@ $ cd spell-checker
 $ python3 binary-search.py
 ```
 
-<br/>
-
 Built Using
 ================
-- Python3
-
-<br/>
+- [Python3](https://www.python.org/downloads/)
 
 Author
 ================
 [Isaack Mungui](https://github.com/isaack-mungui)
 
-<br />
-
 License
 ==================
-
+Find license information [here](LICENSE)
 
 
 
